@@ -4,6 +4,8 @@
 
 I'm a **Senior Software Development Engineer** with extensive experience in **React, TypeScript, Java, and Cloud technologies**. Passionate about building scalable applications and leading tech initiatives.
 
+I'm also very interested in **AI**, especially **AI-assisted software development**—which I already use in my day-to-day work.
+
 ## 💼 Work Experience
 
 - **🩺 Synapse Medicine (2022 - Present)**
