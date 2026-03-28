@@ -1,53 +1,71 @@
 # Hi there! 👋
 
-## 🚀 About Me
+## About Me
 
-I'm a **Senior Software Development Engineer** with extensive experience in **React, TypeScript, Java, and Cloud technologies**. Passionate about building scalable applications and leading tech initiatives.
+**Senior Software Engineer** with 10 years of experience building web applications in demanding environments. React and TypeScript, day in, day out.
 
-I'm also very interested in **AI**, especially **AI-assisted software development**—which I already use in my day-to-day work.
+My journey: the **French Army**, **CNRS**, a year at **Amazon in Dublin** working on **AWS CloudWatch**, then **Synapse Medicine** where I build certified medical applications used by healthcare professionals. Since February 2026, I'm the main developer on **MedGPT** — an AI-powered medical assistant.
 
-## 💼 Work Experience
+I've shipped code under strict regulatory constraints (HIPAA, medical device certification), which taught me rigor, traceability and the importance of testing. I also integrate **AI-assisted development workflows** into my daily engineering practice.
 
-- **🩺 Synapse Medicine (2022 - Present)**
+## Work Experience
 
-  - Conception and development of certified medical software in **React & TypeScript**.
-  - Focused on **software architecture** and best practices.
+**Synapse Medicine** — Senior Software Development Engineer _(May 2022 - Present)_
 
-- **🌐 Inetum (2021 - 2022)**
+- Main developer on [MedGPT](https://medgpt.fr), an AI-powered medical assistant for healthcare professionals
+- Full ownership of fullstack development: **Next.js, React, TypeScript**
+- Frontend architecture and complex product features in collaboration with product, AI and medical teams
+- Integration of AI-assisted development workflows to improve engineering productivity
 
-  - Full-stack web development using **Java & Angular**.
-  - Worked on enterprise applications in a remote setting.
+**Inetum** — Senior Software Development Engineer _(Jul 2021 - May 2022)_
 
-- **☁️ Amazon - AWS CloudWatch (2020 - 2021)**
+- Full-stack development on client projects: **Java, Spring Boot, Angular**
+- Remote collaboration within distributed teams
 
-  - Implemented CloudWatch Alarms interface in **React**.
-  - Served as **Scrum Master** & handled **on-call responsibilities**.
+**Amazon — AWS CloudWatch** — Software Development Engineer _(Jan 2020 - Jan 2021, Dublin)_
 
-- **🛠️ Akka Technologies (2017 - 2019)**
+- Implemented the CloudWatch Alarms management interface in **React**, used by millions of AWS customers worldwide
+- On-call rotation for a critical AWS service with high availability requirements
+- **Scrum Master**: sprint planning, retrospectives, cross-team coordination
 
-  - Led a project to develop an internal project management web portal.
-  - Stack: **Java, Spring Boot, Angular, JWT, GitLab, Jenkins**.
-  - Managed **team recruitment & training**.
+**Akka Technologies** — Software Engineer _(May 2017 - Dec 2019)_
 
-- **🔬 CNRS (2016 - 2017)**
+- Owned technical decisions and implementation of an internal web portal
+- Defined the architecture and stack: **Java/Spring Boot, Angular/TypeScript**
+- Recruited and onboarded team members; established development standards
+- Full-stack: backend APIs, frontend UI, CI/CD with **GitLab** and **Jenkins**
 
-  - Developed **REST services** in Java & web components using **Google Polymer**.
+**CNRS** — Software Engineer _(Apr 2016 - May 2017)_
 
-- **🎖️ French Army (2012 - 2015)**
-  - Served in the **28e régiment de transmissions (Issoire)**.
+- AERIS data center — designed REST APIs in **Java**, built web components with **Google Polymer**
+- Frontend development with HTML5, Sass and JavaScript
 
-## 🛠️ Tech Stack & Skills
+**French Army** — 28e Regiment de Transmissions _(2012 - 2015)_
 
-- **Frontend:** React, Angular, TypeScript, Sass
-- **Backend:** Java, Spring Boot, Maven
-- **Cloud & DevOps:** AWS, GitLab CI/CD, Jenkins
-- **Database:** PostgreSQL, MySQL
-- **Other:** Scrum, Agile, Software Architecture
+- Decorated: _Croix du combattant_, _Medaille d'Outre Mer — agrafe "Sahel"_
 
-## 📫 Let's Connect
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Angular, Sass
+**Backend:** Go, Java, Spring Boot
+**Cloud & DevOps:** Docker, GitLab CI/CD
+**AI:** AI-assisted development, AI pair programming
+**Other:** Scrum, Software Architecture, Medical Device Certification
+
+## Certifications
+
+- **Fundamentals of Agents** — Hugging Face (2026)
+- **AI Fluency Framework & Foundations** — Anthropic (2026)
+
+## Education
+
+- **BGE Toulouse** — Concepteur Developpeur, BAC+4 Software Development (2015-2016) — _Obtained with jury congratulations_
+
+## Languages
+
+- **French:** Native
+- **English:** Professional working proficiency
+
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kleingregory/)
-
----
-
-_⚡ Always learning and building amazing things!_
