@@ -42,7 +42,11 @@ I've shipped code under strict regulatory constraints (HIPAA, medical device cer
 
 **French Army** — 28e Regiment de Transmissions _(2012 - 2015)_
 
-- Decorated: _Croix du combattant_, _Medaille d'Outre Mer — agrafe "Sahel"_
+- Decorated:
+  - _Croix du combattant_
+  - _Médaille d'Outre Mer avec agrafe "Sahel"_
+  - _Médaille de Reconnaissance de la Nation avec agrafe "Opérations Extérieures"_
+  - _Médaille de la Défense Nationale, échelon bronze_
 
 ## Tech Stack 🛠️
 
