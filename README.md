@@ -1,14 +1,14 @@
 # Hi there! 👋
 
-## About Me
+## About Me ✨
 
 **Senior Software Engineer** with 10 years of experience building web applications in demanding environments. React and TypeScript, day in, day out.
 
-My journey: the **French Army**, **CNRS**, a year at **Amazon in Dublin** working on **AWS CloudWatch**, then **Synapse Medicine** where I build certified medical applications used by healthcare professionals. Since February 2026, I'm the main developer on **MedGPT** — an AI-powered medical assistant.
+My journey: the **French Army**, **CNRS**, a year at **Amazon in Dublin** working on **AWS CloudWatch**, then **Synapse Medicine** where I build certified medical applications used by healthcare professionals. Since February 2026, I'm the main developer on **MedGPT** 🤖 — an AI-powered medical assistant.
 
 I've shipped code under strict regulatory constraints (HIPAA, medical device certification), which taught me rigor, traceability and the importance of testing. I also integrate **AI-assisted development workflows** into my daily engineering practice.
 
-## Work Experience
+## Work Experience 💼
 
 **Synapse Medicine** — Senior Software Development Engineer _(May 2022 - Present)_
 
@@ -44,7 +44,7 @@ I've shipped code under strict regulatory constraints (HIPAA, medical device cer
 
 - Decorated: _Croix du combattant_, _Medaille d'Outre Mer — agrafe "Sahel"_
 
-## Tech Stack
+## Tech Stack 🛠️
 
 **Frontend:** React, Next.js, TypeScript, Angular, Sass
 **Backend:** Go, Java, Spring Boot
@@ -52,20 +52,20 @@ I've shipped code under strict regulatory constraints (HIPAA, medical device cer
 **AI:** AI-assisted development, AI pair programming
 **Other:** Scrum, Software Architecture, Medical Device Certification
 
-## Certifications
+## Certifications 🎓
 
 - **Fundamentals of Agents** — Hugging Face (2026)
 - **AI Fluency Framework & Foundations** — Anthropic (2026)
 
-## Education
+## Education 📚
 
 - **BGE Toulouse** — Concepteur Developpeur, BAC+4 Software Development (2015-2016) — _Obtained with jury congratulations_
 
-## Languages
+## Languages 🌍
 
 - **French:** Native
 - **English:** Professional working proficiency
 
-## Let's Connect
+## Let's Connect 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kleingregory/)
