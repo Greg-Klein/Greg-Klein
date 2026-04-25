@@ -48,6 +48,12 @@ I've shipped code under strict regulatory constraints (HIPAA, medical device cer
   - _Médaille de Reconnaissance de la Nation avec agrafe "Opérations Extérieures"_
   - _Médaille de la Défense Nationale, échelon bronze_
 
+## Side Projects 🚀
+
+**[Stacklint](https://stacklint.app)**. Tech debt audit SaaS. Scan a GitHub or GitLab repo across 4 lenses (CVEs, outdated deps, low-test zones, duplication), get an A/B/C/D/F grade and a prioritized top 10 plan in 60 seconds. Embeddable SVG badge for your README.
+
+**[gregoryklein.io](https://gregoryklein.io)**. Personal site and long-form writing. Essays, analyses and build notes on what I ship next to the day job.
+
 ## Tech Stack 🛠️
 
 **Frontend:** React, Next.js, TypeScript, Angular, Sass
@@ -72,4 +78,5 @@ I've shipped code under strict regulatory constraints (HIPAA, medical device cer
 
 ## Let's Connect 🤝
 
+[![Website](https://img.shields.io/badge/Website-gregoryklein.io-B8553C?style=flat&logo=astro&logoColor=white)](https://gregoryklein.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kleingregory/)
