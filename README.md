@@ -6,7 +6,6 @@ On the side, I build technical tools and write about the reasoning behind them.
 
 ### What I ship outside the day job
 
-- **[Stacklint](https://stacklint.app)**. Tech debt audit SaaS. Point it at a GitHub repo, get an A/B/C/D/F grade and a prioritized top-10 fix plan in 60 seconds. Embeddable SVG badge for your README.
 - **[gregoryklein.io](https://gregoryklein.io)**. Long-form essays, one engineering decision at a time, defended in detail.
 
 Past lives: Amazon AWS (Dublin, CloudWatch), Akka, Inetum, CNRS, French Army.
