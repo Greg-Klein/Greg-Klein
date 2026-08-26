@@ -13,4 +13,4 @@ Past lives: Amazon AWS (Dublin, CloudWatch), Akka, Inetum, CNRS, French Army.
 
 ### Find me
 
-[gregoryklein.io](https://gregoryklein.io) · [LinkedIn](https://www.linkedin.com/in/kleingregory/) · [@GregKleinFr](https://twitter.com/GregKleinFr)
+[gregoryklein.io](https://gregoryklein.io) · [LinkedIn](https://www.linkedin.com/in/kleingregory/)
