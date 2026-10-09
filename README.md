@@ -10,7 +10,7 @@
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [Implementation Harness](https://github.com/Greg-Klein/implementation-harness) | Local UI and Claude Code plugin that takes a GitLab ticket to a merge request: clarification, planning, implementation, tests, specialised reviews. Agents, tools and deliverables stay visible the whole way | Active, MIT |
+| [Implementation Factory](https://github.com/Greg-Klein/implementation-factory) | Local console and Claude Code plugin that takes a GitLab or GitHub ticket to a merge request: clarification, planning, implementation, tests, specialised reviews. Agents, tools and deliverables stay visible the whole way | Active, MIT |
 | [MDora](https://mdora.gregoryklein.io) | Native markdown viewer built with Tauri v2: ~10 MB binary, live Mermaid graphs, TOC with scroll-spy, split-pane editing, PDF export | Released (v0.3.1) |
 | [claude-usage-statusline](https://github.com/Greg-Klein/claude-usage-statusline) | Braille loader bars for Claude Code rate limits (5h, 7d) and context usage in the status line | Released |
 
